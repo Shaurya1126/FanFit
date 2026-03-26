@@ -3,11 +3,17 @@
 Want to get into soccer but don't know what team and player to support? Or just want to feel like you're scouting for different talent from the UCL? I made FanFinder just for that!
 
 ## Tech stack
+
 -Flask
+
 -Pandas
+
 -NumPy
+
 -Matplotlib
+
 -SciKitLearn (for KNN & K-means clustering)
+
 -HTML/CSS/JS
 
 ## Model Development
