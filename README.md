@@ -57,9 +57,13 @@ Explains why each player was recommended
 ✅ Separate pipelines for:
 Goalkeepers
 Outfield players
+
 ✅ Interactive user input
+
 ✅ Interpretable recommendations
+
 ✅ Archetype-based analysis
+
 ✅ Real-world football data
 
 ## Why This Project Matters
