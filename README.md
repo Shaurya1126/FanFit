@@ -1,1 +1,1 @@
-# FanFit
+# FanFinder
